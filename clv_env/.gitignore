@@ -1,0 +1,14 @@
+clv_env/
+venv/
+*.env
+
+.ipynb_checkpoints/
+
+__pycache__/
+*.pyc
+
+*clv_dashboard_data.csv
+*online_retail_II.xlsx
+
+.DS_Store
+Thumbs.db
