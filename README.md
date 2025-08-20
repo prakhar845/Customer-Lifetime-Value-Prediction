@@ -42,8 +42,8 @@ Customer Segmentation: Customers were segmented into "VIP," "High-Value," "Mediu
 🚀 How to Run
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/prakhar845/Customer-Lifetime-Value-Prediction.git
+cd Customer-Lifetime-Value-Prediction
 
 Set up the environment:
 
@@ -55,4 +55,4 @@ pip install -r requirements.txt
 
 Download the data: Download the "Online Retail II" dataset from the UCI Machine Learning Repository and place the .xlsx file in the project's root directory.
 
-Run the analysis: Open and run the Customer_Lifetime_Value_Prediction.ipynb Jupyter Notebook.
+Run the analysis: Open and run the analyze_data.ipynb Jupyter Notebook.
